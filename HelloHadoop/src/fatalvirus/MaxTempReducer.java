@@ -15,7 +15,7 @@ public class MaxTempReducer
 			Context context) 
 					throws IOException, InterruptedException {
 		
-		// 최고온도를 0이로 설정
+		// 최고온도를 0으로 설정
 		int maxValue = Integer.MIN_VALUE;
 		
 		// 맵의 결과로 추출된 년도와 온도가 들어 있는
